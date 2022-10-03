@@ -3,6 +3,6 @@
 int main()
 {
 	printf("GitHub\n");
-	printf("≤‚ ‘");
+	printf("≤‚ ‘\n");
 	return 0;
 }
