@@ -1,0 +1,4 @@
+﻿  test.c
+D:\VS2022\teat_11_9_2\teat_11_9_2\test.c(171,7): warning C4101: “parr”: 未引用的局部变量
+D:\VS2022\teat_11_9_2\teat_11_9_2\test.c(172,8): warning C4101: “pch”: 未引用的局部变量
+  teat_11_9_2.vcxproj -> D:\VS2022\teat_11_9_2\x64\Debug\teat_11_9_2.exe
