@@ -1,0 +1,5 @@
+﻿  test.c
+D:\VS2022\test_11_12\test_11_12\test.c(1,1): warning C4828: 文件包含在偏移 0x846 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\VS2022\test_11_12\test_11_12\test.c(124,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\VS2022\test_11_12\test_11_12\test.c(124,9): message : 请考虑在格式字符串中使用“%zd”
+  test_11_12.vcxproj -> D:\VS2022\test_11_12\x64\Debug\test_11_12.exe
